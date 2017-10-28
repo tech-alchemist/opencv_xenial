@@ -13,8 +13,8 @@ Steps for Installing OpenCV in Ubuntu 16.04
     $ sudo -H pip install --upgrade pip
     $ sudo -H pip install numpy pillow pytesseract require
     
-    $ wget -c https://github.com/abhis27/opencv_xenial/raw/master/opencv.3.2.0.zip
-    $ wget -c https://github.com/abhis27/opencv_xenial/raw/master/opencv_contrib.3.2.0.zip
+    $ wget -c https://github.com/tech-alchemist/opencv_xenial/raw/master/opencv.3.2.0.zip
+    $ wget -c https://github.com/tech-alchemist/opencv_xenial/raw/master/opencv_contrib.3.2.0.zip
 
     $ unzip opencv.3.2.0.zip ; unzip opencv_contrib.3.2.0.zip
     $ cd opencv-3.2.0/
