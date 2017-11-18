@@ -8,7 +8,7 @@ Steps for Installing OpenCV in Ubuntu 16.04
     
     $ sudo apt install build-essential cmake pkg-config libjpeg8-dev libtiff5-dev libjasper-dev libpng12-dev libavcodec-dev libavformat-dev libswscale-dev libv4l-dev  libxvidcore-dev libx264-dev libgtk-3-dev libatlas-base-dev gfortran python2.7-dev python3.5-dev liblapacke-dev checkinstall libpjproject-dev libboost-all-dev libtesseract3 tesseract-ocr gcc-arm-linux-androideabi
     
-    $ sudo apt install libpjproject-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libopenblas-dev emacs dkms synaptic ssh
+    $ sudo apt install libpjproject-dev libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler libopenblas-dev emacs dkms synaptic ssh doxygen ccache ffmpeg
     
     $ sudo -H pip install --upgrade pip
     $ sudo -H pip install numpy pillow pytesseract require
